@@ -4,7 +4,7 @@ A Go tool to auto generate reflective maps go file and json file for your enums
 
 
 ## Fork
-This is a fork of [const2json](https://github.com/vearutop/const2json) add features to generate a json file.
+This is a fork of [const2map](https://github.com/vearutop/const2map) add features to generate a json file.
 
 
 ## Installation
